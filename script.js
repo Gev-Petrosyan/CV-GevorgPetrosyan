@@ -1,10 +1,10 @@
-function myFunctionClick() {
-  document.getElementById("click").innerHTML = "Thank you for message";
-  document.getElementById("click").style.color = "#43f143";
-  document.getElementById("click").style.border = "thin dotted #43f143";
-  document.getElementById("click").style.width = "150px";
-  document.getElementById("click").style.border = "5px";
-}
+// function myFunctionClick() {
+//   document.getElementById("click").innerHTML = "Thank you for message";
+//   document.getElementById("click").style.color = "#43f143";
+//   document.getElementById("click").style.border = "thin dotted #43f143";
+//   document.getElementById("click").style.width = "150px";
+//   document.getElementById("click").style.border = "5px";
+// }
 
 function myFunction() { 
     var x = document.getElementById("click");

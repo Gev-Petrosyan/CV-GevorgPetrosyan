@@ -339,6 +339,10 @@ header ul {
   animation: anim-input 5s;
 }
 
+.section-5 a {
+  animation: anim-input 5s;
+}
+
 @keyframes anim-input {
   0% {
       opacity: 0;
