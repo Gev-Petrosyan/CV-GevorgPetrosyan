@@ -20,7 +20,7 @@ header {
 
 @media (max-width: 750px) {
   header .container .row div {
-      width: auto; !important
+      width: auto;
   }
 }
 
@@ -49,11 +49,11 @@ header ul {
 }
 
 .header-one-h2 {
-  text-align: left; !important
+  text-align: left;
 }
 
 .header-one-text {
-  text-align: left; !important
+  text-align: left; 
 }
 
 .section-1 {
@@ -62,12 +62,6 @@ header ul {
 
 .section-1 img {
   width: 100%;
-}
-
-@media (max-width: 1100px) {
-  .section-1 div {
-      margin: 1px;
-  }
 }
 
 @media (max-width: 550px) {
