@@ -222,7 +222,7 @@ header ul {
       width: 0px;
   }
   100% {
-      width: 67%;
+      width: 82%;
   }
 }
 
@@ -240,7 +240,7 @@ header ul {
     width: 0px;
   }
   100% {
-    width: 50%;
+    width: 75%;
   }
 }
 
@@ -344,6 +344,24 @@ header ul {
 }
 
 @keyframes anim-13 {
+  0% {
+      width: 0px;
+  }
+  100% {
+      width: 25%;
+  }
+}
+
+.section-3-14 {
+  /* width: 100px; */
+  height: 12px;
+  background-color: #ffac81;
+  background-image: linear-gradient(315deg, #ffac81 0%, #ff928b 74%);
+  border-radius: 5px 5px 5px 5px;
+  animation: anim-14 5s;
+}
+
+@keyframes anim-14 {
   0% {
       width: 0px;
   }
